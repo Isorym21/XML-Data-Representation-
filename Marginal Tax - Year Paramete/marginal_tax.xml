@@ -1,0 +1,121 @@
+
+<rules>
+
+    <!-- 
+    2019
+    https://www.mortgagecalculator.org/calcs/2019-marginal-tax-rate-calculator.php
+-->
+
+
+<rule no='1' code='MFJ' end='19700'  start='0' taxRate='0.1' year=  '2019'> Single/Married Filing Separately</rule>      
+<rule no='2' code='MFJ' end='39475'  start='19700' taxRate='0.12' year=  '2019'> Single/Married Filing Separately</rule>
+<rule no='3' code='MFJ' end='84200'  start='39475' taxRate='0.22'  year=  '2019'> Single/Married Filing Separately</rule>
+<rule no='4' code='MFJ' end='160725'  start='84200' taxRate='0.24'  year=  '2019'> Single/Married Filing Separately</rule>
+<rule no='5' code='MFJ' end='204100'  start='160725' taxRate='0.32'  year=  '2019'> Single/Married Filing Separately</rule>
+<rule no='6' code='MFJ' end='510300'  start='204100' taxRate='0.35'  year=  '2019'>  Single/Married Filing Separately</rule>
+<rule no='7' code='MFJ' end='infinity'  start='510300' taxRate='0.37'  year=  '2019'>  Married Filing Jointly</rule>
+<rule no='8' code='SM' end='19400'  start='0' taxRate='0.1'  year=  '2019'>Married Filing Jointly</rule>
+<rule no='9' code='SM' end='78950'  start='19400' taxRate='0.12'  year=  '2019'>Married Filing Jointly</rule>
+<rule no='10' code='SM' end='168400'  start='78950' taxRate='0.22'  year=  '2019'> Married Filing Jointly</rule>
+<rule no='11' code='SM' end='321450'  start='168400' taxRate='0.24'  year=  '2019'>Married Filing Jointly</rule>
+<rule no='12' code='SM' end='408200'  start='321450' taxRate='0.32'  year=  '2019'> Married Filing Jointly</rule>
+<rule no='13' code='SM' end='612350'  start='408200' taxRate='0.35'  year=  '2019'> Married Filing Jointly</rule>
+<rule no='14' code='SM' end='infinity'  start='612350' taxRate='0.37'  year=  '2019'> Married Filing Jointly</rule>
+<rule no='15' code='HH' end='13850'  start='0' taxRate='0.1'  year=  '2019'>Heads of Household</rule>
+<rule no='16' code='HH' end='52850'  start='13850' taxRate='0.12'  year=  '2019'>Heads of Household</rule>
+<rule no='17' code='HH' end='84200'  start='52850' taxRate='0.22'  year=  '2019'>Heads of Household</rule>
+<rule no='18' code='HH' end='160700'  start='84200' taxRate='0.24'  year=  '2019'>Heads of Household</rule>
+<rule no='19' code='HH' end='204100'  start='160700' taxRate='0.32'  year=  '2019'>Heads of Household</rule>
+<rule no='20' code='HH' end='510300'  start='204100' taxRate='0.35'  year=  '2019'>Heads of Household</rule>
+<rule no='21' code='HH' end='infinity'  start='510300' taxRate='0.37'  year=  '2019'>Heads of Household</rule>
+
+
+
+<!-- 
+    2020
+    https://taxfoundation.org/2020-tax-brackets/
+-->
+
+
+<rule no='1' code='SM' end='9875'  start='0' taxRate='0.1' year=  '2020'>Single/Married Filing Separately</rule>
+<rule no='2' code='SM' end='40125'  start='9876' taxRate='0.12' year=  '2020'>Single/Married Filing Separately</rule>
+<rule no='3' code='SM' end='85525'  start='40126' taxRate='0.22' year=  '2020'>Single/Married Filing Separately</rule>
+<rule no='4' code='SM' end='163300'  start='85526' taxRate='0.24' year=  '2020'>Single/Married Filing Separately</rule>
+<rule no='5' code='SM' end='207350'  start='163301' taxRate='0.32' year=  '2020'>Single/Married Filing Separately</rule>
+<rule no='6' code='SM' end='518400'  start='207351' taxRate='0.35' year=  '2020'>Single/Married Filing Separately</rule>
+<rule no='7' code='SM' end='infinity'  start='518401' taxRate='0.37' year=  '2020'>Single/Married Filing Separately</rule>
+<rule no='8' code='MFJ' end='19750'  start='0' taxRate='0.1' year=  '2020'>Married Filing Jointly</rule>
+<rule no='9' code='MFJ' end='80250'  start='19751' taxRate='0.12' year=  '2020'>Married Filing Jointly</rule>
+<rule no='10' code='MFJ' end='171050'  start='80251' taxRate='0.22' year=  '2020'>Married Filing Jointly</rule>
+<rule no='11' code='MFJ' end='326600'  start='71051' taxRate='0.24' year=  '2020'>Married Filing Jointly</rule>
+<rule no='12' code='MFJ' end='414700'  start='326601' taxRate='0.32' year=  '2020'>Married Filing Jointly</rule>
+<rule no='13' code='MFJ' end='622050'  start='414701' taxRate='0.35' year=  '2020'>Married Filing Jointly</rule>
+<rule no='14' code='MFJ' end='infinity'  start='622051' taxRate='0.37' year=  '2020'>Married Filing Jointly</rule>
+<rule no='15' code='HH' end='14100'  start='0' taxRate='0.1' year=  '2020'>Heads of Household</rule>
+<rule no='16' code='HH' end='53700'  start='14101' taxRate='0.12' year=  '2020'>Heads of Household</rule>
+<rule no='17' code='HH' end='85500'  start='53701' taxRate='0.22' year=  '2020'>Heads of Household</rule>
+<rule no='18' code='HH' end='163300'  start='85501' taxRate='0.24' year=  '2020'>Heads of Household</rule>
+<rule no='19' code='HH' end='207350'  start='163301' taxRate='0.32' year=  '2020'>Heads of Household</rule>
+<rule no='20' code='HH' end='518400'  start='207351' taxRate='0.35' year=  '2020'>Heads of Household</rule>
+<rule no='21' code='HH' end='infinity'  start='518401' taxRate='0.37' year=  '2020'>Heads of Household</rule>
+
+
+
+
+<!-- 
+    2021
+    https://www.investopedia.com/terms/m/marginaltaxrate.asp
+-->
+
+<rule no='1' code='SM' end='0'  start='0' taxRate='0.1' year=  '2021'>Single/Married Filing Separately</rule>
+<rule no='2' code='SM' end='9950'  start='0' taxRate='0.12' year=  '2021'>Single/Married Filing Separately</rule>
+<rule no='3' code='SM' end='40525'  start='9950' taxRate='0.22' year=  '2021'>Single/Married Filing Separately</rule>
+<rule no='4' code='SM' end='86375'  start='40525' taxRate='0.24' year=  '2021'>Single/Married Filing Separately</rule>
+<rule no='5' code='SM' end='164925'  start='86375' taxRate='0.32' year=  '2021'>Single/Married Filing Separately</rule>
+<rule no='6' code='SM' end='209425'  start='164925' taxRate='0.35' year=  '2021'>Single/Married Filing Separately</rule>
+<rule no='7' code='SM' end='523600'  start='209425' taxRate='0.37' year=  '2021'>Single/Married Filing Separately</rule>
+<rule no='8' code='MFJ' end='19900'  start='0' taxRate='0.1' year=  '2021'>Married Filing Jointly</rule>
+<rule no='9' code='MFJ' end='81050'  start='19900' taxRate='0.12' year=  '2021'>Married Filing Jointly</rule>
+<rule no='10' code='MFJ' end='172750'  start='81050' taxRate='0.22' year=  '2021'>Married Filing Jointly</rule>
+<rule no='11' code='MFJ' end='329850'  start='172750' taxRate='0.24' year=  '2021'>Married Filing Jointly</rule>
+<rule no='12' code='MFJ' end='418850'  start='329850' taxRate='0.32' year=  '2021'>Married Filing Jointly</rule>
+<rule no='13' code='MFJ' end='628300'  start='418850' taxRate='0.35' year=  '2021'>Married Filing Jointly</rule>
+<rule no='14' code='MFJ' end='infinity'  start='628300' taxRate='0.37' year=  '2021'>Married Filing Jointly</rule>
+<rule no='15' code='HH' end='14200'  start='0' taxRate='0.1' year=  '2021'>Heads of Household</rule>
+<rule no='16' code='HH' end='54200'  start='14200' taxRate='0.12' year=  '2021'>Heads of Household</rule>
+<rule no='17' code='HH' end='86350'  start='54200' taxRate='0.22' year=  '2021'>Heads of Household</rule>
+<rule no='18' code='HH' end='164900'  start='86350' taxRate='0.24' year=  '2021'>Heads of Household</rule>
+<rule no='19' code='HH' end='209400'  start='164900' taxRate='0.32' year=  '2021'>Heads of Household</rule>
+<rule no='20' code='HH' end='523600'  start='209400' taxRate='0.35' year=  '2021'>Heads of Household</rule>
+<rule no='21' code='HH' end='infinity'  start='523600' taxRate='0.37' year=  '2021'>Heads of Household</rule>
+
+
+
+
+    <!--
+       
+        2022 https://www.investopedia.com/ask/answers/05/marginaltaxrate.asp
+     !-->
+
+    <rule no='1' code='SM' end='10275'  start='0' taxRate='0.1' year=  '2022' >Single/Married Filing Separately  </rule>
+    <rule no='2' code='SM' end='41775'  start='10275' taxRate='0.12'  year=  '2022'>Single/Married Filing Separately</rule>
+    <rule no='3' code='SM' end='89075'  start='41775' taxRate='0.22'  year=  '2022'>Single/Married Filing Separately</rule>
+    <rule no='4' code='SM' end='170050'  start='89075' taxRate='0.24' year=  '2022'>Single/Married Filing Separately</rule>
+    <rule no='5' code='SM' end='215950'  start='170050' taxRate='0.32' year=  '2022'>Single/Married Filing Separately</rule>
+    <rule no='6' code='SM' end='539900'  start='215950' taxRate='0.35' year=  '2022'>Single/Married Filing Separately</rule>
+    <rule no='7' code='SM' end='infinity'  start='539900' taxRate='0.37' year=  '2022'>Single/Married Filing Separately</rule>
+    <rule no='8' code='MFJ' end='20550'  start='0' taxRate='0.1' year=  '2022'>Married Filing Jointly</rule>
+    <rule no='9' code='MFJ' end='83550'  start='20550' taxRate='0.12' year=  '2022'>Married Filing Jointly</rule>
+    <rule no='10' code='MFJ' end='178150'  start='83550' taxRate='0.22' year=  '2022'>Married Filing Jointly</rule>
+    <rule no='11' code='MFJ' end='340100'  start='178150' taxRate='0.24' year=  '2022'>Married Filing Jointly</rule>
+    <rule no='12' code='MFJ' end='431900'  start='340100' taxRate='0.32' year=  '2022'>Married Filing Jointly</rule>
+    <rule no='13' code='MFJ' end='647850'  start='431900' taxRate='0.35' year=  '2022'>Married Filing Jointly</rule>
+    <rule no='14' code='MFJ' end='infinity'  start='647850' taxRate='0.37' year=  '2022'>Married Filing Jointly</rule>
+    <rule no='15' code='HH' end='14650'  start='0' taxRate='0.1' year=  '2022'>Heads of Household</rule>
+    <rule no='16' code='HH' end='55900'  start='14650' taxRate='0.12' year=  '2022'>Heads of Household</rule>
+    <rule no='17' code='HH' end='89050'  start='55900' taxRate='0.22' year=  '2022'>Heads of Household</rule>
+    <rule no='18' code='HH' end='170050'  start='89050' taxRate='0.24' year=  '2022'>Heads of Household</rule>
+    <rule no='19' code='HH' end='215950'  start='170050' taxRate='0.32' year=  '2022'>Heads of Household</rule>
+    <rule no='20' code='HH' end='539900'  start='215950' taxRate='0.35' year=  '2022'>Heads of Household</rule>
+    <rule no='21' code='HH' end='infinity'  start='539900' taxRate='0.37' year=  '2022'>Heads of Household</rule>
+</rules>

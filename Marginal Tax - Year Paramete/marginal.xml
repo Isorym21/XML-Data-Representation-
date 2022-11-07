@@ -1,0 +1,63 @@
+<MarginalTaxBracket>
+
+
+
+
+ <!--
+    
+        2019
+     !-->
+     <bracket MarginalTaxRate="10%" singleMarriedFilingSeparately="$0 to $9,700" MarriedFilingJointly=" $0 to $19,400" HeadsofHousehold=" $0  to $13,850"></bracket>
+     <bracket MarginalTaxRate="12%" singleMarriedFilingSeparately="$9,700 to $39,475" MarriedFilingJointly="$19,400 to $78,950" HeadsofHousehold="$13,850 to $52,850"></bracket>
+     <bracket MarginalTaxRate="22%" singleMarriedFilingSeparately="$39,475 to $84,200" MarriedFilingJointly=" $78,950 to $168,400" HeadsofHousehold=" $52,850 to $84,200"></bracket>
+     <bracket MarginalTaxRate="24%" singleMarriedFilingSeparately="$84,200 to $160,725" MarriedFilingJointly=" $168,400 to $321,450" HeadsofHousehold="84,200 to 160,700"></bracket>
+     <bracket MarginalTaxRate="32%" singleMarriedFilingSeparately="$160,725 to $204,100" MarriedFilingJointly="$321,450 to $408,200" HeadsofHousehold=" 160,700 to $204,100"></bracket>
+     <bracket MarginalTaxRate="35%" singleMarriedFilingSeparately="$204,100 to $510,300" MarriedFilingJointly=" $408,200to $612,350" HeadsofHousehold=" $204,100 to $510,300"></bracket>
+     <bracket MarginalTaxRate="37%" singleMarriedFilingSeparately="Over $510,300" MarriedFilingJointly=" Over $612,350" HeadsofHousehold=" Over $510,300"></bracket>
+
+
+
+ <!--
+    
+        2020
+     !-->
+     <bracket MarginalTaxRate="10%" singleMarriedFilingSeparately="Up to $9,875" MarriedFilingJointly="Up to $19,750" HeadsofHousehold="Up to $14,100"></bracket>
+     <bracket MarginalTaxRate="12%" singleMarriedFilingSeparately="$9,876 to $40,125" MarriedFilingJointly="$19,751 to $80,250" HeadsofHousehold="$14,101to $53,700"></bracket>
+     <bracket MarginalTaxRate="22%" singleMarriedFilingSeparately="$40,126 to $85,525" MarriedFilingJointly=" $80,251 to $171,050" HeadsofHousehold=" $53,701 to $85,500"></bracket>
+     <bracket MarginalTaxRate="24%" singleMarriedFilingSeparately="$85,526 to $163,300" MarriedFilingJointly=" $171,051 to $326,600" HeadsofHousehold="85,501 to 163,300"></bracket>
+     <bracket MarginalTaxRate="32%" singleMarriedFilingSeparately="$163,301 to $207,350" MarriedFilingJointly="$326,601 to $414,700" HeadsofHousehold=" 163,301 to $207,350"></bracket>
+     <bracket MarginalTaxRate="35%" singleMarriedFilingSeparately="$207,351 to $518,400" MarriedFilingJointly=" $414,701 to $622,050" HeadsofHousehold=" $207,351 to $518,400"></bracket>
+     <bracket MarginalTaxRate="37%" singleMarriedFilingSeparately="Over $518,401" MarriedFilingJointly=" Over $622,051" HeadsofHousehold=" Over $518,401"></bracket>
+
+
+
+
+ <!--
+    
+        2021
+     !-->
+     <bracket MarginalTaxRate="10%" singleMarriedFilingSeparately="$0" MarriedFilingJointly="$0" HeadsofHousehold=" $0"></bracket>
+     <bracket MarginalTaxRate="12%" singleMarriedFilingSeparately="$9,950" MarriedFilingJointly="$19,900" HeadsofHousehold="$14,200"></bracket>
+     <bracket MarginalTaxRate="22%" singleMarriedFilingSeparately="$40,525" MarriedFilingJointly=" $81,050" HeadsofHousehold=" $54,200"></bracket>
+     <bracket MarginalTaxRate="24%" singleMarriedFilingSeparately="$85,375" MarriedFilingJointly=" $172,750" HeadsofHousehold="86,350"></bracket>
+     <bracket MarginalTaxRate="32%" singleMarriedFilingSeparately="$164,925" MarriedFilingJointly="$329,850" HeadsofHousehold=" 164,900"></bracket>
+     <bracket MarginalTaxRate="35%" singleMarriedFilingSeparately="$209,425" MarriedFilingJointly=" $418,850" HeadsofHousehold=" $209,400"></bracket>
+     <bracket MarginalTaxRate="37%" singleMarriedFilingSeparately="$523,600" MarriedFilingJointly=" $628,300" HeadsofHousehold=" $523,600"></bracket>
+
+
+    <!--
+    
+
+
+
+        2022
+     !-->
+    <bracket MarginalTaxRate="10%" singleMarriedFilingSeparately="Up to $10,275" MarriedFilingJointly="Up to $20,550" HeadsofHousehold="Up to $14,650"></bracket>
+    <bracket MarginalTaxRate="12%" singleMarriedFilingSeparately="$10,275 to $41,775" MarriedFilingJointly="$20,550 to $83,550" HeadsofHousehold="$14,650 to $55,900"></bracket>
+    <bracket MarginalTaxRate="22%" singleMarriedFilingSeparately="$41,775 to $89,075" MarriedFilingJointly=" $83,550 to $178,150" HeadsofHousehold=" $55,900 to $89,050"></bracket>
+    <bracket MarginalTaxRate="24%" singleMarriedFilingSeparately="$89,075 to $170,050" MarriedFilingJointly=" $178,150 to $340,100" HeadsofHousehold=" $89,050 to 170,050"></bracket>
+    <bracket MarginalTaxRate="32%" singleMarriedFilingSeparately="$170,050 to $215,950" MarriedFilingJointly="$340,100 to $431,900" HeadsofHousehold=" 170,050 to $215,950"></bracket>
+    <bracket MarginalTaxRate="35%" singleMarriedFilingSeparately="$215,950 to $539,900" MarriedFilingJointly=" $431,900 to $647,850" HeadsofHousehold=" $215,950 to $539,900"></bracket>
+    <bracket MarginalTaxRate="37%" singleMarriedFilingSeparately="Over $539,900" MarriedFilingJointly=" Over $647,850" HeadsofHousehold=" Over $539,900"></bracket>
+  
+ </MarginalTaxBracket>
