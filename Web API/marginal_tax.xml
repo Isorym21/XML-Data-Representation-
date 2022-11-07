@@ -1,0 +1,28 @@
+<rules>
+    <!--
+        2021    https://www.investopedia.com/terms/m/marginaltaxrate.asp
+        2022
+     !-->
+
+    <rule no='1' code='SM' end='10275'  start='0' taxRate='0.1'>Single/Married Filing Separately</rule>
+    <rule no='2' code='SM' end='41775'  start='10275' taxRate='0.12'>Single/Married Filing Separately</rule>
+    <rule no='3' code='SM' end='89075'  start='41775' taxRate='0.22'>Single/Married Filing Separately</rule>
+    <rule no='4' code='SM' end='170050'  start='89075' taxRate='0.24'>Single/Married Filing Separately</rule>
+    <rule no='5' code='SM' end='215950'  start='170050' taxRate='0.32'>Single/Married Filing Separately</rule>
+    <rule no='6' code='SM' end='539900'  start='215950' taxRate='0.35'>Single/Married Filing Separately</rule>
+    <rule no='7' code='SM' end='infinity'  start='539900' taxRate='0.37'>Single/Married Filing Separately</rule>
+    <rule no='8' code='MFJ' end='20550'  start='0' taxRate='0.1'>Married Filing Jointly</rule>
+    <rule no='9' code='MFJ' end='83550'  start='20550' taxRate='0.12'>Married Filing Jointly</rule>
+    <rule no='10' code='MFJ' end='178150'  start='83550' taxRate='0.22'>Married Filing Jointly</rule>
+    <rule no='11' code='MFJ' end='340100'  start='178150' taxRate='0.24'>Married Filing Jointly</rule>
+    <rule no='12' code='MFJ' end='431900'  start='340100' taxRate='0.32'>Married Filing Jointly</rule>
+    <rule no='13' code='MFJ' end='647850'  start='431900' taxRate='0.35'>Married Filing Jointly</rule>
+    <rule no='14' code='MFJ' end='infinity'  start='647850' taxRate='0.37'>Married Filing Jointly</rule>
+    <rule no='15' code='HH' end='14650'  start='0' taxRate='0.1'>Heads of Household</rule>
+    <rule no='16' code='HH' end='55900'  start='14650' taxRate='0.12'>Heads of Household</rule>
+    <rule no='17' code='HH' end='89050'  start='55900' taxRate='0.22'>Heads of Household</rule>
+    <rule no='18' code='HH' end='170050'  start='89050' taxRate='0.24'>Heads of Household</rule>
+    <rule no='19' code='HH' end='215950'  start='170050' taxRate='0.32'>Heads of Household</rule>
+    <rule no='20' code='HH' end='539900'  start='215950' taxRate='0.35'>Heads of Household</rule>
+    <rule no='21' code='HH' end='infinity'  start='539900' taxRate='0.37'>Heads of Household</rule>
+</rules>
