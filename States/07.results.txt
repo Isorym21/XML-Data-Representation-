@@ -1,0 +1,11 @@
+/usr/local/bin/python3.10 /Users/isorysantana/Project 3519/q07.py
+{'code': 'CA ', 'name': 'California', 'salesTax': '0.0725', 'population2020': '39_499_738'}
+{'code': 'FL ', 'name': 'Florida', 'salesTax': '0.06', 'population2020': '21_569_932'}
+{'code': 'GA ', 'name': 'Georgia', 'salesTax': '0.04', 'population2020': '10_725_800'}
+{'code': 'IL ', 'name': 'Illinois', 'salesTax': '0.0625', 'population2020': '12_785_245'}
+{'code': 'MI ', 'name': 'Michigan', 'salesTax': '0.06', 'population2020': '10_067_664'}
+{'code': 'NY ', 'name': 'New York', 'salesTax': '0.04', 'population2020': '20_154_933'}
+{'code': 'NC ', 'name': 'North Carolina', 'salesTax': '0.0475', 'population2020': '10_457_177'}
+{'code': 'OH ', 'name': 'Ohio', 'salesTax': '0.0575', 'population2020': '11_790_587'}
+{'code': 'PA ', 'name': 'Pennsylvania', 'salesTax': '0.06', 'population2020': '12_989_625'}
+{'code': 'TX ', 'name': 'Texas', 'salesTax': '0.0625', 'population2020': '29_217_653'}

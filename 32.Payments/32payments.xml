@@ -1,0 +1,6 @@
+<payments>
+    <payment ruleNo="1"  code="JBR"   age="59.5" monthlySalary="0"   percentage=".05" />
+    <payment ruleNo="2"  code="SS"    age="63"   monthlySalary="2104" />
+    <payment ruleNo="3"  code="SS"    age="67"   monthlySalary="3603" />
+    <payment ruleNo="4"  code="SS"    age="71"   monthlySalary="3840" />
+</payments>

@@ -1,0 +1,20 @@
+ <!--
+    1. XML is case sentive 
+    2. XML allow us to create our own tags
+        -->
+
+        <stocks>
+            <stock symbol= "IBM" price= "130.80"   marketCap= "$117.76B" > International Business Machine</stock>
+            <stock symbol= "METV" price= "$8.75"    marketCap= "$519.180" > METV Roundhill Ball Metaverse ETF</stock>
+            <stock symbol= "TM"  price= "$151.89"   marketCap= "$208.31B" > TM Toyota Motor Corporation</stock>
+            <stock symbol= "AAPL" price= "$161.58"  marketCap= "$2.63T" > AAPL Apple Inc.</stock>
+            <stock symbol= "JPM " price= "$114.43"  marketCap= "$336.28B" > JPM JPMorgan Chase Co</stock>
+            <stock symbol= "INT" price= "$27.30"    marketCap= "$1.67B" > INT World Fuel Services Corporation</stock>
+            <stock symbol= " D.UN:CA" price= "$22.28 "  marketCap= "$981.66M" > D.UN:CA Dream Office Real Estate Investment Trust</stock>
+            <stock symbol= "T.PA" price= "$21.30"  marketCap= "$127.48B" > T.PA AT T Inc. 5% DEP RP PFD A</stock>
+            <stock symbol= "DIS" price= "$113.99"  marketCap= "$207.96B" > DIS The Walt Disney Company</stock>
+            <stock symbol= "R " price= "$80.38"  marketCap= "$4.11B" > R Ryder System, Inc</stock>
+            
+            </stocks>
+            
+            

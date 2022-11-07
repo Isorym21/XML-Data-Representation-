@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<retirements>
+	<year 1_no="1" 2_startingBalance="1000" 3_startingBalance="118.8" 4_startingBalance="1118.8"/>
+	<year 1_no="2" 2_startingBalance="11118.8" 3_startingBalance="1320.91344" 4_startingBalance="12439.71344"/>
+	<year 1_no="3" 2_startingBalance="22439.71344" 3_startingBalance="2665.837956672" 4_startingBalance="25105.551396672"/>
+	<year 1_no="4" 2_startingBalance="35105.551396672" 3_startingBalance="4170.539505924634" 4_startingBalance="39276.09090259664"/>
+	<year 1_no="5" 2_startingBalance="49276.09090259664" 3_startingBalance="5853.999599228481" 4_startingBalance="55130.09050182512"/>
+	<year 1_no="6" 2_startingBalance="65130.09050182512" 3_startingBalance="7737.454751616825" 4_startingBalance="72867.54525344195"/>
+	<year 1_no="7" 2_startingBalance="82867.54525344195" 3_startingBalance="9844.664376108904" 4_startingBalance="92712.20962955085"/>
+	<year 1_no="8" 2_startingBalance="102712.20962955085" 3_startingBalance="12202.210503990642" 4_startingBalance="114914.4201335415"/>
+	<year 1_no="9" 2_startingBalance="124914.4201335415" 3_startingBalance="14839.833111864731" 4_startingBalance="139754.25324540623"/>
+	<year 1_no="10" 2_startingBalance="149754.25324540623" 3_startingBalance="17790.80528555426" 4_startingBalance="167545.0585309605"/>
+	<year 1_no="11" 2_startingBalance="177545.0585309605" 3_startingBalance="21092.35295347811" 4_startingBalance="198637.4114844386"/>
+	<year 1_no="12" 2_startingBalance="208637.4114844386" 3_startingBalance="24786.12448435131" 4_startingBalance="233423.53596878992"/>
+	<year 1_no="13" 2_startingBalance="243423.53596878992" 3_startingBalance="28918.716073092244" 4_startingBalance="272342.25204188214"/>
+	<year 1_no="14" 2_startingBalance="282342.25204188214" 3_startingBalance="33542.2595425756" 4_startingBalance="315884.5115844577"/>
+	<year 1_no="15" 2_startingBalance="325884.5115844577" 3_startingBalance="38715.079976233574" 4_startingBalance="364599.5915606913"/>
+	<year 1_no="16" 2_startingBalance="374599.5915606913" 3_startingBalance="44502.43147741013" 4_startingBalance="419102.02303810144"/>
+	<year 1_no="17" 2_startingBalance="429102.02303810144" 3_startingBalance="50977.32033692645" 4_startingBalance="480079.3433750279"/>
+	<year 1_no="18" 2_startingBalance="490079.3433750279" 3_startingBalance="58221.425992953315" 4_startingBalance="548300.7693679812"/>
+	<year 1_no="19" 2_startingBalance="558300.7693679812" 3_startingBalance="66326.13140091617" 4_startingBalance="624626.9007688974"/>
+	<year 1_no="20" 2_startingBalance="634626.9007688974" 3_startingBalance="75393.675811345" 4_startingBalance="710020.5765802424"/>
+	<year 1_no="21" 2_startingBalance="720020.5765802424" 3_startingBalance="85538.4444977328" 4_startingBalance="805559.0210779752"/>
+	<year 1_no="22" 2_startingBalance="815559.0210779752" 3_startingBalance="96888.41170406346" 4_startingBalance="912447.4327820386"/>
+	<year 1_no="23" 2_startingBalance="922447.4327820386" 3_startingBalance="109586.75501450618" 4_startingBalance="1032034.1877965447"/>
+	<year 1_no="24" 2_startingBalance="1042034.1877965447" 3_startingBalance="123793.66151022952" 4_startingBalance="1165827.8493067743"/>
+	<year 1_no="25" 2_startingBalance="1175827.8493067743" 3_startingBalance="139688.3484976448" 4_startingBalance="1315516.197804419"/>
+	<year 1_no="26" 2_startingBalance="1325516.197804419" 3_startingBalance="157471.324299165" 4_startingBalance="1482987.5221035841"/>
+	<year 1_no="27" 2_startingBalance="1492987.5221035841" 3_startingBalance="177366.9176259058" 4_startingBalance="1670354.4397294899"/>
+	<year 1_no="28" 2_startingBalance="1680354.4397294899" 3_startingBalance="199626.1074398634" 4_startingBalance="1879980.5471693533"/>
+	<year 1_no="29" 2_startingBalance="1889980.5471693533" 3_startingBalance="224529.6890037192" 4_startingBalance="2114510.2361730724"/>
+	<year 1_no="30" 2_startingBalance="2124510.2361730724" 3_startingBalance="252391.816057361" 4_startingBalance="2376902.0522304336"/>
+	<year 1_no="31" 2_startingBalance="2386902.0522304336" 3_startingBalance="283563.9638049755" 4_startingBalance="2670466.016035409"/>
+	<year 1_no="32" 2_startingBalance="2680466.016035409" 3_startingBalance="318439.3627050066" 4_startingBalance="2998905.378740416"/>
+	<year 1_no="33" 2_startingBalance="3008905.378740416" 3_startingBalance="357457.9589943614" 4_startingBalance="3366363.3377347775"/>
+	<year 1_no="34" 2_startingBalance="3376363.3377347775" 3_startingBalance="401111.96452289156" 4_startingBalance="3777475.302257669"/>
+	<year 1_no="35" 2_startingBalance="3787475.302257669" 3_startingBalance="449952.0659082111" 4_startingBalance="4237427.36816588"/>
+	<year 1_no="36" 2_startingBalance="4247427.36816588" 3_startingBalance="504594.37133810663" 4_startingBalance="4752021.739503987"/>
+	<year 1_no="37" 2_startingBalance="4762021.739503987" 3_startingBalance="565728.1826530737" 4_startingBalance="5327749.92215706"/>
+	<year 1_no="38" 2_startingBalance="5337749.92215706" 3_startingBalance="634124.6907522588" 4_startingBalance="5971874.612909319"/>
+	<year 1_no="39" 2_startingBalance="5981874.612909319" 3_startingBalance="710646.7040136271" 4_startingBalance="6692521.316922946"/>
+	<year 1_no="40" 2_startingBalance="6702521.316922946" 3_startingBalance="796259.532450446" 4_startingBalance="7498780.849373392"/>
+</retirements>
