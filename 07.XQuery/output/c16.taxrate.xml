@@ -1,0 +1,5 @@
+<taxRules>
+(: display all data where the tax rate is greater than 20% and all years except
+   for 2019
+ :)
+</taxRules>

@@ -1,0 +1,4 @@
+<married>
+(: display all rules where married filing jointly, and end salary is greater
+   than 100,000  :)
+</married>

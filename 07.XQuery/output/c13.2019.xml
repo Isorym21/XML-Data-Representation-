@@ -1,0 +1,4 @@
+<taxRules>
+(: display all data from the year 2019 and the end salary is greater than
+   100,000 :)
+</taxRules>
