@@ -1,1 +1,0 @@
-doc("./data/w3.books.xml")//title

@@ -1,1 +1,0 @@
-doc("./data/w3.books.xml")/bookstore/book[price > 30]
