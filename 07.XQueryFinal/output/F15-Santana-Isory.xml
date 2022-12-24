@@ -1,0 +1,283 @@
+
+<leastexpensive>
+   <stock id="4"
+          ticker="AES"
+          sector="Utilities"
+          price="22.9"
+          numberOfShares="85"
+          mcp="15.25963802"
+          dividends="0.025744337"
+          frequency="quarterly">
+      <name>AES Corp.</name>
+   </stock>
+   <stock id="19"
+          ticker="PPL"
+          sector="Utilities"
+          price="27.96"
+          numberOfShares="69"
+          mcp="21.51817887"
+          dividends="0.058131844"
+          frequency="quarterly">
+      <name>PPL Corp</name>
+   </stock>
+   <stock id="84"
+          ticker="NRG"
+          sector="Utilities"
+          price="40.66"
+          numberOfShares="48"
+          mcp="9.952627981"
+          dividends="0.030981972"
+          frequency="quarterly">
+      <name>NRG Energy Inc.</name>
+   </stock>
+   <stock id="143"
+          ticker="PNW"
+          sector="Utilities"
+          price="72.12"
+          numberOfShares="27"
+          mcp="8.134096607"
+          dividends="0.045350311"
+          frequency="quarterly">
+      <name>Pinnacle West Capital Corp.</name>
+   </stock>
+   <stock id="165"
+          ticker="ETR"
+          sector="Utilities"
+          price="99.37"
+          numberOfShares="19"
+          mcp="19.96885433"
+          dividends="0.037732203"
+          frequency="quarterly">
+      <name>Entergy Corp.</name>
+   </stock>
+   <stock id="167"
+          ticker="DTE"
+          sector="Utilities"
+          price="111.67"
+          numberOfShares="17"
+          mcp="21.63623604"
+          dividends="0.031791015"
+          frequency="quarterly">
+      <name>DTE Energy Co.</name>
+   </stock>
+   <stock id="178"
+          ticker="ATO"
+          sector="Utilities"
+          price="88.78"
+          numberOfShares="22"
+          mcp="11.61160838"
+          dividends="0.027890375"
+          frequency="quarterly">
+      <name>Atmos Energy Corp.</name>
+   </stock>
+   <stock id="181"
+          ticker="AEP"
+          sector="Utilities"
+          price="81.38"
+          numberOfShares="24"
+          mcp="40.71045397"
+          dividends="0.035913452"
+          frequency="quarterly">
+      <name>American Electric Power Company Inc.</name>
+   </stock>
+   <stock id="187"
+          ticker="EVRG"
+          sector="Utilities"
+          price="61.8"
+          numberOfShares="31"
+          mcp="14.17060627"
+          dividends="0.03419652"
+          frequency="quarterly">
+      <name>Evergy Inc</name>
+   </stock>
+   <stock id="188"
+          ticker="FE"
+          sector="Utilities"
+          price="35.85"
+          numberOfShares="54"
+          mcp="19.50934189"
+          dividends="0.042830082"
+          frequency="quarterly">
+      <name>Firstenergy Corp.</name>
+   </stock>
+   <stock id="201"
+          ticker="CMS"
+          sector="Utilities"
+          price="59.73"
+          numberOfShares="32"
+          mcp="17.30104764"
+          dividends="0.02837753"
+          frequency="quarterly">
+      <name>CMS Energy Corporation</name>
+   </stock>
+   <stock id="204"
+          ticker="SRE"
+          sector="Utilities"
+          price="125.58"
+          numberOfShares="15"
+          mcp="40.10125181"
+          dividends="0.043071491"
+          frequency="quarterly">
+      <name>Sempra Energy</name>
+   </stock>
+   <stock id="206"
+          ticker="CNP"
+          sector="Utilities"
+          price="24.9"
+          numberOfShares="78"
+          mcp="14.76297039"
+          dividends="0.025064366"
+          frequency="quarterly">
+      <name>Centerpoint Energy Inc.</name>
+   </stock>
+   <stock id="219"
+          ticker="PEG"
+          sector="Utilities"
+          price="60.46"
+          numberOfShares="32"
+          mcp="30.56718977"
+          dividends="0.033199981"
+          frequency="quarterly">
+      <name>Public Service Enterprise Group Inc.</name>
+   </stock>
+   <stock id="222"
+          ticker="SO"
+          sector="Utilities"
+          price="61.75"
+          numberOfShares="31"
+          mcp="65.38249402"
+          dividends="0.041477637"
+          frequency="quarterly">
+      <name>Southern Company</name>
+   </stock>
+   <stock id="230"
+          ticker="WEC"
+          sector="Utilities"
+          price="87.62"
+          numberOfShares="22"
+          mcp="27.63837361"
+          dividends="0.030094041"
+          frequency="quarterly">
+      <name>WEC Energy Group Inc</name>
+   </stock>
+   <stock id="234"
+          ticker="XEL"
+          sector="Utilities"
+          price="62.49"
+          numberOfShares="31"
+          mcp="33.64690632"
+          dividends="0.028554822"
+          frequency="quarterly">
+      <name>Xcel Energy, Inc.</name>
+   </stock>
+   <stock id="243"
+          ticker="LNT"
+          sector="Utilities"
+          price="55.78"
+          numberOfShares="35"
+          mcp="13.95938321"
+          dividends="0.028159389"
+          frequency="quarterly">
+      <name>Alliant Energy Corp.</name>
+   </stock>
+   <stock id="246"
+          ticker="AEE"
+          sector="Utilities"
+          price="80.61"
+          numberOfShares="24"
+          mcp="20.72863273"
+          dividends="0.026726284"
+          frequency="quarterly">
+      <name>Ameren Corp.</name>
+   </stock>
+   <stock id="248"
+          ticker="ES"
+          sector="Utilities"
+          price="81.84"
+          numberOfShares="23"
+          mcp="28.12376399"
+          dividends="0.028717465"
+          frequency="quarterly">
+      <name>Eversource Energy</name>
+   </stock>
+   <stock id="251"
+          ticker="ED"
+          sector="Utilities"
+          price="71.6"
+          numberOfShares="27"
+          mcp="25.30213745"
+          dividends="0.04262658"
+          frequency="quarterly">
+      <name>Consolidated Edison, Inc.</name>
+   </stock>
+   <stock id="284"
+          ticker="EIX"
+          sector="Utilities"
+          price="55.04"
+          numberOfShares="35"
+          mcp="20.89895214"
+          dividends="0.047326815"
+          frequency="quarterly">
+      <name>Edison International</name>
+   </stock>
+   <stock id="297"
+          ticker="DUK"
+          sector="Utilities"
+          price="98.46"
+          numberOfShares="19"
+          mcp="75.7489799"
+          dividends="0.03885233"
+          frequency="quarterly">
+      <name>Duke Energy Corp.</name>
+   </stock>
+   <stock id="298"
+          ticker="D"
+          sector="Utilities"
+          price="72.29"
+          numberOfShares="27"
+          mcp="58.44554865"
+          dividends="0.034430816"
+          frequency="quarterly">
+      <name>Dominion Energy Inc</name>
+   </stock>
+   <stock id="404"
+          ticker="AWK"
+          sector="Utilities"
+          price="168.34"
+          numberOfShares="11"
+          mcp="30.55298951"
+          dividends="0.013621631"
+          frequency="quarterly">
+      <name>American Water Works Co. Inc.</name>
+   </stock>
+   <stock id="421"
+          ticker="NI"
+          sector="Utilities"
+          price="24.3"
+          numberOfShares="80"
+          mcp="9.535572258"
+          dividends="0.035339058"
+          frequency="quarterly">
+      <name>Nisource Inc. (Holding Co.)</name>
+   </stock>
+   <stock id="432"
+          ticker="EXC"
+          sector="Utilities"
+          price="47.79"
+          numberOfShares="40"
+          mcp="46.73062282"
+          dividends="0.031607928"
+          frequency="quarterly">
+      <name>Exelon Corp.</name>
+   </stock>
+   <stock id="437"
+          ticker="NEE"
+          sector="Utilities"
+          price="79.21"
+          numberOfShares="24"
+          mcp="155.1779309"
+          dividends="0.018912769"
+          frequency="quarterly">
+      <name>NextEra Energy Inc</name>
+   </stock>
+</leastexpensive>
